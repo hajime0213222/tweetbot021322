@@ -1,0 +1,25 @@
+{
+  "name": "tweet-bot0213222",
+  "version": "1.0.0",
+  "description": "\"Nodejs Twitter Bot\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hajime0213222/tweetbot021322.git"
+  },
+  "keywords": [
+    "hajime-nagasaka"
+  ],
+  "author": "hajime-nagasaka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hajime0213222/tweetbot021322/issues"
+  },
+  "homepage": "https://github.com/hajime0213222/tweetbot021322#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
